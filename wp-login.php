@@ -9,7 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; Bethesda Shopping Center &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
+<<<<<<< HEAD
 <!--n2css--><link rel='stylesheet' href='http://localhost/https:/dan0823.github.io/mysite/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.9.15' type='text/css' media='all' />
+=======
+<!--n2css--><link rel='stylesheet' href='/https://dan0823.github.io/mysite/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.9.15' type='text/css' media='all' />
+>>>>>>> ce0784980255df0def22f4d3a8217966eed5fef3
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -18,7 +22,11 @@
 		<div id="login">
 		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Powered by WordPress</a></h1>
 	
+<<<<<<< HEAD
 <form name="loginform" id="loginform" action="http://localhost/https:/dan0823.github.io/mysite/wp-login.php" method="post">
+=======
+<form name="loginform" id="loginform" action="/https://dan0823.github.io/mysite/wp-login.php" method="post">
+>>>>>>> ce0784980255df0def22f4d3a8217966eed5fef3
 	<p>
 		<label for="user_login">Username or Email Address<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
@@ -36,7 +44,11 @@
 </form>
 
 <p id="nav">
+<<<<<<< HEAD
 	<a href="http://localhost/https:/dan0823.github.io/mysite/my-account/lost-password/">Lost your password?</a>
+=======
+	<a href="/https://dan0823.github.io/mysite/my-account/lost-password/">Lost your password?</a>
+>>>>>>> ce0784980255df0def22f4d3a8217966eed5fef3
 </p>
 
 <script type="text/javascript">
@@ -53,7 +65,11 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
+<<<<<<< HEAD
 	<p id="backtoblog"><a href="http://localhost/https:/dan0823.github.io/mysite/">&larr; Back to Bethesda Shopping Center</a></p>
+=======
+	<p id="backtoblog"><a href="/https://dan0823.github.io/mysite/">&larr; Back to Bethesda Shopping Center</a></p>
+>>>>>>> ce0784980255df0def22f4d3a8217966eed5fef3
 		
 	</div>
 
